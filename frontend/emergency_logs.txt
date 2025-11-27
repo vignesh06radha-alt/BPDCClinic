@@ -1,0 +1,9 @@
+2025-11-27 00:47:35 | 2023B5A79999 | emergencycall_1
+2025-11-27 12:49:19 | 2024A7PS0255U | emergencycall_1
+2025-11-27 13:20:29 | 2024A7PS0255U | emergencycall_1
+2025-11-27 13:30:53 | 2024A7PS0255U | emergencycall_1
+2025-11-27 13:48:24 | 2024A7PS0255U | emergencycall_1
+2025-11-27 13:51:09 | 2024A7PS0255U | emergencycall_1
+2025-11-27 14:21:19 | NURSE_001 | emergencycall_1
+2025-11-27 14:41:11 | NURSE_001 | emergencycall_1
+2025-11-27 14:58:59 | 2024A7PS0255U | emergencycall_1
